@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying at **Techno main, Salt lake**
 
-- 🌱 I’m currently learning **C, web dev**
+- 🌱 I’m currently learning **C, python,  web dev**
 
 - 📫 How to reach me **ashmitghosh14@gmail.com**
 
