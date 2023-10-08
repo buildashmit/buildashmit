@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buildashmit&label=Profile%20views&color=0e75b6&style=flat" alt="buildashmit" /> </p>
 
-- 🔭 I’m currently studying at **Techno main, Salt lake**
+- 🔭 I’m currently studying at **Techno main, Salt lake- 2ND year CSBS**
 
 - 🌱 I’m currently learning **C, python,  web dev**
 
